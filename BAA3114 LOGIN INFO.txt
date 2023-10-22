@@ -1,0 +1,9 @@
+**Database Name: internetbanking**
+
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: baa3114
+
+
